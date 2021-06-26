@@ -33,7 +33,7 @@ class login1{
 		}
 		else
 		{
-			System.out.print("Invalid entry!");
+			System.out.print("Invalid entry! ");
 		}
 		
 			
